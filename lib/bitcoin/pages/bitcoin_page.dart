@@ -3,7 +3,7 @@ import 'dart:ffi';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'bitcoin_controller.dart';
+import '../bitcoin_controller.dart';
 
 class BitcoinPage extends StatefulWidget {
   BitcoinPage({Key? key}) : super(key: key);

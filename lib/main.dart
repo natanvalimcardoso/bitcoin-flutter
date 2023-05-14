@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'bitcoin/bitcoin_page.dart';
+import 'bitcoin/pages/bitcoin_page.dart';
 
 void main() {
   runApp(const MyApp());

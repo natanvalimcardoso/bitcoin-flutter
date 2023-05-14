@@ -12,5 +12,6 @@ class BitcoinController {
     var bitcoinValue = await _bitcoinRepository.fetchBitcoinPrice('usd');
     var value = bitcoinValue * numberBitcoin;
     return value;
+    
   }
 }
