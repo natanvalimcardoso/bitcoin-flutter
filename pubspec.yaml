@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   dio: ^5.1.2
   http: ^0.13.6
+  concentric_transition: ^1.0.3
+  floating_tabbar: ^0.0.7
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
@@ -61,8 +64,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
